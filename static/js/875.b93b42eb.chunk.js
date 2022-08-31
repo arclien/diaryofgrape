@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiaryofgrape=self.webpackChunkdiaryofgrape||[]).push([[875],{7875:function(n,e,r){r.r(e),r.d(e,{default:function(){return d}});r(7313);var i,t=r(168),u=r(244).ZP.div(i||(i=(0,t.Z)(["\n  width: 100%;\n  height: 100%;\n"]))),a=r(6417),d=function(){return(0,a.jsx)(u,{children:"Loading"})}}}]);
